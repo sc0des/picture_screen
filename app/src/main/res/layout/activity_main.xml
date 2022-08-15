@@ -381,7 +381,7 @@
 
         <include
             layout="@layout/image_info"
-            android:layout_width="379dp"
+            android:layout_width="match_parent"
             android:layout_height="wrap_content" />
 
         <com.google.android.material.divider.MaterialDivider
